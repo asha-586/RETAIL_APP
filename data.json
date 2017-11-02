@@ -1,0 +1,40 @@
+{
+   "_default":{
+      "1":{
+         "current_price":{
+            "currency_code":"USD",
+            "value":1111.11
+         },
+         "id":15117729
+      },
+      "2":{
+         "current_price":{
+            "value":2222.22,
+            "currency_code":"USD"
+         },
+         "id":16483589
+      },
+      "3":{
+         "current_price":{
+            "currency_code":"INR",
+            "value":3333.33
+         },
+         "id":16696652
+      },
+      "4":{
+         "current_price":{
+            "value":4444.44,
+            "currency_code":"EUR"
+         },
+         "id":16752456
+      },
+      "5":{
+         "current_price":{
+            "currency_code":"EUR",
+            "value":5555.55
+         },
+         "id":15643793
+      }
+   }
+}
+
